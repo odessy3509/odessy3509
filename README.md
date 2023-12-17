@@ -16,9 +16,9 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
 
 
 
-<div align="center" style="display: flex; flex-direction: row; justify-content: space-around;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
-  <div style="text-align: center;">
+  <div style="text-align: center; margin: 10px;">
 
     ## Contact Me
 
@@ -28,7 +28,7 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
 
   </div>
 
-  <div style="text-align: center;">
+  <div style="text-align: center; margin: 10px;">
 
     ## Join the Studio's Server
 
@@ -38,7 +38,7 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
 
   </div>
 
-  <div style="text-align: center;">
+  <div style="text-align: center; margin: 10px;">
 
     ## Check out the Projects
 
@@ -49,8 +49,6 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
   </div>
 
 </div>
-
-
 
 
 
