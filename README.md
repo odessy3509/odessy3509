@@ -8,15 +8,16 @@
 
 <div align="center">
 
-| **Currently working on:**                      |                           
-| ---------------------------------------------- |
-| - Small games                                  | <img src="https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical" /> |
-| - Game jams                                    |                           
-| - In a small but growing indie studio          |                           
+**Currently working on:**
+- Small games
+- Game jams
+- In a small but growing indie studio
 
 </div>
-                      
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical" />
+</div>
 
 &nbsp; <!-- Small space -->
 
@@ -34,10 +35,6 @@
 
 <div align="center">
   <img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/ac0ee750-45c5-4042-9713-c11c097339be" alt="Menu" width="300" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical" />
 </div>
 
 Looking forward to connecting with fellow game developers and enthusiasts! Let's create some amazing games together! 🚀
