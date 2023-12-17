@@ -21,10 +21,10 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
 
 
 <div align="center">
-  <img src="https://i.gyazo.com/421be63b9f0484e2b3e091f1a305066f.gif" width="100" alt="Image 1">
-  <img src="https://i.gyazo.com/87f5f89b6c8015dc8fb44e504d0a234e.gif" width="100" alt="Image 2">
-  <img src="https://i.gyazo.com/9406abee664760b76d9ac888a309dcb6.gif" width="100" alt="Image 3">
-  <img src="https://i.gyazo.com/97ac69f8357fd372face675541328229.gif" width="100" alt="Image 4">
+  <img src="https://i.gyazo.com/421be63b9f0484e2b3e091f1a305066f.gif" width="150" alt="Image 1">
+  <img src="https://i.gyazo.com/87f5f89b6c8015dc8fb44e504d0a234e.gif" width="150" alt="Image 2">
+  <img src="https://i.gyazo.com/9406abee664760b76d9ac888a309dcb6.gif" width="150" alt="Image 3">
+  <img src="https://i.gyazo.com/97ac69f8357fd372face675541328229.gif" width="150" alt="Image 4">
 </div>
 
 
