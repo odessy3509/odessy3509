@@ -16,25 +16,37 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
 
 
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: row; justify-content: space-around;">
 
-  ## Contact Me
+  <div style="text-align: center;">
 
-  <a href="mailto:odessy3509@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%40odessy3509@gmail.com-yellow?style=for-the-badge&logo=gmail&logoColor=red&color=yellow" alt="Email">
-  </a>
+    ## Contact Me
 
-  ## Join the Studio's Server
+    <a href="mailto:odessy3509@gmail.com">
+      <img src="https://img.shields.io/badge/Email-%40odessy3509@gmail.com-yellow?style=for-the-badge&logo=gmail&logoColor=red&color=yellow" alt="Email">
+    </a>
 
-  <a href="https://discord.com/users/odessy3509">
-    <img src="https://img.shields.io/badge/Discord-odessy3509-blue?style=for-the-badge&logo=discord&logoColor=white&color=7289da" alt="Discord">
-  </a>
+  </div>
 
-  ## Check out the Projects
+  <div style="text-align: center;">
 
-  <a href="https://odessy.itch.io/">
-    <img src="https://img.shields.io/badge/itch.io-odessy-red?style=for-the-badge&logo=itch.io&logoColor=white&color=ff0000" alt="itch.io">
-  </a>
+    ## Join the Studio's Server
+
+    <a href="https://discord.com/users/odessy3509">
+      <img src="https://img.shields.io/badge/Discord-odessy3509-blue?style=for-the-badge&logo=discord&logoColor=white&color=7289da" alt="Discord">
+    </a>
+
+  </div>
+
+  <div style="text-align: center;">
+
+    ## Check out the Projects
+
+    <a href="https://odessy.itch.io/">
+      <img src="https://img.shields.io/badge/itch.io-odessy-red?style=for-the-badge&logo=itch.io&logoColor=white&color=ff0000" alt="itch.io">
+    </a>
+
+  </div>
 
 </div>
 
