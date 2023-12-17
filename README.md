@@ -1,8 +1,6 @@
 <div align="center">
   <img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/3982432c-03d3-443e-a757-59210e79e61a" alt="Banner" />
   <h3>Aspiring game developer and artist creating digital content for the world. Building a platform to create and share with others.</h3>
-</div>
----
 <div align="left">
   🗂️ **Currently working on:** Small games, game jams, and in a small but growing game studio
 
