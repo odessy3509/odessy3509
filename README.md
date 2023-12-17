@@ -12,7 +12,7 @@
 
   👯 **Looking to collaborate on:** Game jams and other games
 
-  📧 **How to reach me:** [odessy3509@gmail.com](mailto:odessy3509@gmail.com)
+ 
 </div>
 
 <div align="center">
@@ -23,8 +23,9 @@
 
 <div align="center">
   <h3>Connect with me:</h3>
-  <!-- Add your social media links here -->
-  <!-- Example: [LinkedIn](https://www.linkedin.com/in/yourusername/) -->
+  📧 **How to reach me:** [odessy3509@gmail.com](mailto:odessy3509@gmail.com)
+  
+  💬 **Discord:** YourDiscordUsername#1234
 </div>
 
 ---
