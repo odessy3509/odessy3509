@@ -1,17 +1,14 @@
 ![Banner](https://github.com/odessy3509/Odessy.github.io/assets/137520021/b9031079-f295-4e75-81ce-ceedeb38d93e)
 
-## Bio
 Hey there! I'm a passionate game developer and artist with a love for creating games. I specialize in C# in Unity and 2D and pixel art. Let's work together and create fun games.
 
 **Visitor Count:** [Visitor Count Here]
 
-### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical)
 
 - Currently, I'm working on small games, game jams, and in a small but growing indie studio.
 - I'm learning C# and 2D art and animation.
 
-## Contact Me
 <div align="center">
   <a href="mailto:odessy3509@gmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
