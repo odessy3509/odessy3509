@@ -27,9 +27,7 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
 
     ## Email
 
-    <a href="mailto:odessy3509@gmail.com">
-      <img src="https://img.shields.io/badge/Email-%40odessy3509@gmail.com-yellow?style=for-the-badge&logo=gmail&logoColor=red&color=yellow" alt="Email">
-    </a>
+    [![Email](https://img.shields.io/badge/Email-%40odessy3509@gmail.com-yellow?style=for-the-badge&logo=gmail&logoColor=red&color=yellow)](mailto:odessy3509@gmail.com)
 
   </div>
 
@@ -37,9 +35,7 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
 
     ## Discord
 
-    <a href="https://discord.com/users/odessy3509">
-      <img src="https://img.shields.io/badge/Discord-odessy3509-blue?style=for-the-badge&logo=discord&logoColor=white&color=7289da" alt="Discord">
-    </a>
+    [![Discord](https://img.shields.io/badge/Discord-odessy3509-blue?style=for-the-badge&logo=discord&logoColor=white&color=7289da)](https://discord.com/users/odessy3509)
 
   </div>
 
@@ -47,13 +43,12 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
 
     ## itch.io
 
-    <a href="https://odessy.itch.io/">
-      <img src="https://img.shields.io/badge/itch.io-odessy-red?style=for-the-badge&logo=itch.io&logoColor=white&color=ff0000" alt="itch.io">
-    </a>
+    [![itch.io](https://img.shields.io/badge/itch.io-odessy-red?style=for-the-badge&logo=itch.io&logoColor=white&color=ff0000)](https://odessy.itch.io/)
 
   </div>
 
 </div>
+
 
 
 
