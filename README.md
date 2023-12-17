@@ -2,19 +2,16 @@
 
 <h4 align="center">Hey there! I'm a passionate game developer and artist with a love for creating games. I specialize in **C#, Unity** and **2D and pixel art**. Let's work together and create fun games.
 
-<div align="left">
-
-
 **Currently working on:**
 - Small games
 - Game jams
 - In a small but growing indie studio
 
-<br/> <!-- Add a line break -->
-
-<div align="right" style="margin-top: -20px"> <!-- Adjust the margin-top value to move the stats up or down -->
+<div align="right">
+  <br/> <!-- Add a line break to move the stats down -->
   <img src="https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical" />
 </div>
+
 
 
 
