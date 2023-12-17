@@ -39,13 +39,13 @@
 ## My Work
 <div align="center">
   <img src="https://i.gyazo.com/421be63b9f0484e2b3e091f1a305066f.gif" width="100" /> 
-  <img src="https://i.gyazo.com/87f5f89b6c8015dc8fb44e504d0a234e.gif" width="200" /> 
-  <img src="https://i.gyazo.com/9406abee664760b76d9ac888a309dcb6.gif" width="200" /> 
-  <img src="https://i.gyazo.com/97ac69f8357fd372face675541328229.gif" width="200" />
+  <img src="https://i.gyazo.com/87f5f89b6c8015dc8fb44e504d0a234e.gif" width="100" /> 
+  <img src="https://i.gyazo.com/9406abee664760b76d9ac888a309dcb6.gif" width="100" /> 
+  <img src="https://i.gyazo.com/97ac69f8357fd372face675541328229.gif" width="100" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/ac0ee750-45c5-4042-9713-c11c097339be" alt="Menu" />
+  <img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/ac0ee750-45c5-4042-9713-c11c097339be" alt="Menu" width="150" />
 </div>
 
 Looking forward to connecting with fellow game developers and enthusiasts! Let's create some amazing games together! 🚀
