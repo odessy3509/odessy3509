@@ -27,13 +27,9 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
   <img src="https://i.gyazo.com/97ac69f8357fd372face675541328229.gif" width="150" alt="Image 4">
 </div>
 
-
-
-
 <img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/f105a05b-aaf0-4c8a-be51-12f712041375.png" alt="Fwog" width="200">
-
-
 <img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/ac0ee750-45c5-4042-9713-c11c097339be.png" alt="Game Menu" width="300">
+<img src= alt="Game Menu" width="300">
 
 
 
