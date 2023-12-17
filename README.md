@@ -30,7 +30,7 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
 
 
 
-<img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/ac0ee750-45c5-4042-9713-c11c097339be.png" alt="Game Menu" width="200">
+<img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/ac0ee750-45c5-4042-9713-c11c097339be.png" alt="Game Menu" width="300">
 
 
 
