@@ -5,7 +5,6 @@
 - Small games
 - Game jams
 - In a small but growing indie studio
-
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical" />
 </div>
