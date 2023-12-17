@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Odessy</h1>
 <h3 align="center">A passionate game dev and artist</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.pinterest.com/pin/love-drawing-gif-love-drawing-cute-discover-share-gifs--614741417873905461/)">
+<img align="right" alt="Coding" width="400" src="img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odessy3509&label=Profile%20views&color=0e75b6&style=flat" alt="odessy3509" /> </p>
 
 - 🗂️ I’m currently working on **small games, game jams and in a small but growing game studio**
