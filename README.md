@@ -1,6 +1,4 @@
-# Project Name
-
-![Banner Image](url/to/your/banner/image.png)
+![Banner Image](file:///C:/Users/odess/Downloads/Random/Banner1.png)
 
 ## Bio
 
