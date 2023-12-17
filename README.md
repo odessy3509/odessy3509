@@ -13,20 +13,20 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical)
 
 
-
 <div align="center"> 
 
   <a href="mailto:odessy3509@gmail.com">
     <img src="https://img.shields.io/badge/Email-%40Dessy-blue?style=for-the-badge&logo=gmail&logoColor=red" alt="Email">
   </a>
   <a href="https://discord.com/users/odessy3509">
-    <img src="https://img.shields.io/badge/Discord-odessy3509-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-odessy3509-blue?style=for-the-badge&logo=discord&logoColor=white&color=blue" alt="Discord">
   </a>
   <a href="https://odessy.itch.io/">
-    <img src="https://img.shields.io/badge/itch.io-odessy-blue?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io">
+    <img src="https://img.shields.io/badge/itch.io-odessy-blue?style=for-the-badge&logo=itch.io&logoColor=white&color=orange" alt="itch.io">
   </a>
 
 </div>
+
 
 
 ## My Artwork
