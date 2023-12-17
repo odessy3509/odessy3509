@@ -10,7 +10,19 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
 
 - **Indie Studio:** Engaged with a small, but rapidly growing indie studio, contributing to exciting projects.
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical)
+ <div align="center" style="display: flex; justify-content: space-between;">
+
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical" alt="GitHub Stats">
+  </div>
+
+  <div>
+    <!-- Add another widget here -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odessy3509&layout=compact&theme=radical" alt="Top Languages">
+  </div>
+
+</div>
+
 
 
 
