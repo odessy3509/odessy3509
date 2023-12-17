@@ -23,7 +23,7 @@ Hello! It's fantastic to connect with a passionate creator like you! And share y
 
 <div align="center">
   <a href="mailto:odessy3509@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%40odessy3509@gmail.com-yellow?style=for-the-badge&logo=gmail&logoColor=red&color=yellow" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-%40odessy3509@gmail.com-yellow?style=for-the-badge&logo=gmail&logoColor=red&color=yellow" alt="Email">
   </a>
 
   <a href="https://discord.com/users/odessy3509">
