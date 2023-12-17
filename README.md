@@ -70,8 +70,10 @@ Looking forward to connecting with fellow game developers and enthusiasts! Let's
 
 If you enjoy my work and would like to support me, consider buying me a coffee!
 
-<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-  <img src="https://img.buymeacoffee.com/button-api/?username=yourusername&show_product=false" alt="Buy Me A Coffee" style="height: 30px !important;width: 120px !important;" >
-</a>
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
 
 
