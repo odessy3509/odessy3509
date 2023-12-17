@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odessy3509&label=Profile%20views&color=0e75b6&style=flat" alt="odessy3509" /> </p>
 
-- 🔭 I’m currently working on **small games**
+- 🗂️ I’m currently working on **small games, game jams and in a small but growing game studio**
 
-- 🌱 I’m currently learning **C# and 2D animation**
+- 📖 I’m currently learning **C# and 2D animation**
 
-- 👯 I’m looking to collaborate on **game jams,games**
+- 👯 I’m looking to collaborate on **game jams, other games**
 
-- 📫 How to reach me **odessy3509@gmail.com**
+- 📧 How to reach me **odessy3509@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
