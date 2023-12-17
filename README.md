@@ -45,7 +45,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/ac0ee750-45c5-4042-9713-c11c097339be" alt="Menu" width="150" />
+  <img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/ac0ee750-45c5-4042-9713-c11c097339be" alt="Menu" width="300" />
 </div>
 
 Looking forward to connecting with fellow game developers and enthusiasts! Let's create some amazing games together! 🚀
