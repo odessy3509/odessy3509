@@ -1,6 +1,6 @@
 ![Banner](https://github.com/odessy3509/Odessy.github.io/assets/137520021/06cb6ea7-c490-4056-8d8d-e1abcb3ec8b9)
 <div align="center">
-Hey there! I'm a passionate game developer and artist with a love for creating games. I specialize in C#, Unity and 2D and pixel art. Let's work together and create fun games.
+Hello! It's fantastic to connect with a passionate creator like you! I share your enthusiasm for creating engaging games. My expertise lies in C#, Unity, and 2D and pixel art, making us a great team to bring exciting projects to life. I'm eager to collaborate and combine our skills to craft immersive and enjoyable gaming experiences. Let's embark on this creative journey together and build some extraordinary games!
 </div>
 
 ## Current Work
