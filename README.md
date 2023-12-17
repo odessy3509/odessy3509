@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/3982432c-03d3-443e-a757-59210e79e61a" alt="Banner" />
-  <h1>Odessy</h1>
-  <h3>Digital Craftsman (Game Dev and Artist)</h3>
   <p>Aspiring game developer and artist creating digital content for the world. Building a platform to create and share with others.</p>
-  <img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/a3a7838b-02e1-4e33-b673-1070ad732e34" alt="GIF"/>
+  <img align="right" src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/a3a7838b-02e1-4e33-b673-1070ad732e34" alt="GIF"/>
 </div>
 
 ---
