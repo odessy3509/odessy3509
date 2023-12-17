@@ -2,10 +2,8 @@
   <img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/3982432c-03d3-443e-a757-59210e79e61a" alt="Banner" />
   <h3>Aspiring game developer and artist creating digital content for the world. Building a platform to create and share with others.</h3>
 </div>
-
 ---
-
-<div align="center">
+<div align="left">
   🗂️ **Currently working on:** Small games, game jams, and in a small but growing game studio
 
   📖 **Currently learning:** C# and 2D animation
@@ -15,7 +13,7 @@
   📧 **How to reach me:** [odessy3509@gmail.com](mailto:odessy3509@gmail.com)
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/a3a7838b-02e1-4e33-b673-1070ad732e34" alt="GIF" width="300" height="300" />
 </div>
 
