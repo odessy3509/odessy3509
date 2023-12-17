@@ -10,11 +10,8 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
 - Game jams
 - In a small but growing indie studio
 
-## GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical)
 
-## Connect with Me
 
 - 📧 Email: [odessy3509@gmail.com](mailto:odessy3509@gmail.com)
 - 💬 Discord: [odessy3509](https://discord.com/users/odessy3509)
