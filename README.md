@@ -1,4 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![image](file:///C:/Users/odess/Downloads/Random/Banner1.png)
 <h1 align="center">Odessy</h1>
 <h3 align="center">Digital Craftsman (game dev|artist)</h3>
 <h3 align="center">I'm an aspiring game dev and artist creating digital content for the world. I hope to build a platform to create and share with others.</h3>
