@@ -5,10 +5,7 @@ Hey there! I'm a passionate game developer with a love for creating immersive an
 
 ### About Me
 - **Name:** [Your Name]
-- **Role:** Game Developer
-
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical)
+- **Role:** Game Developer                ### GitHub Stats ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical)
 
 
 Here are some of the projects I'm currently working on or have completed:
