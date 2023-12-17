@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 ![image](file:///C:/Users/odess/Downloads/Random/Banner1.png)
 <h1 align="center">Odessy</h1>
 <h3 align="center">Digital Craftsman (game dev and artist)</h3>
