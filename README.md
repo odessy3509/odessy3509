@@ -29,9 +29,9 @@ Hello! It's fantastic to connect with a passionate creator like you! And share y
     <img src="https://img.shields.io/badge/Gmail-%40odessy3509@gmail.com-yellow?style=for-the-badge&logo=gmail&logoColor=red&color=yellow" alt="Email">
   </a>
 
-  <a href=(https://discord.gg/rgxjqPpJ)>
-    <img src="https://img.shields.io/badge/Discord-odessy3509-blue?style=for-the-badge&logo=discord&logoColor=white&color=7289da" alt="Discord">
-  </a>
+  <a href="https://discord.gg/rgxjqPpJ">
+  <img src="https://img.shields.io/badge/Discord-odessy3509-blue?style=for-the-badge&logo=discord&logoColor=white&color=7289da" alt="Discord">
+</a>
 
   <a href="https://odessy.itch.io/">
     <img src="https://img.shields.io/badge/itch.io-odessy-red?style=for-the-badge&logo=itch.io&logoColor=white&color=ff0000" alt="itch.io">
