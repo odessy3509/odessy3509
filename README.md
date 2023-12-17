@@ -36,7 +36,7 @@
   </a>
 </div>
 
-## My Work
+## My Artwork
 <div align="center">
   <img src="https://i.gyazo.com/421be63b9f0484e2b3e091f1a305066f.gif" width="100" /> 
   <img src="https://i.gyazo.com/87f5f89b6c8015dc8fb44e504d0a234e.gif" width="100" /> 
