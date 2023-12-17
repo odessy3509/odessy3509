@@ -1,7 +1,7 @@
 ![Banner](https://github.com/odessy3509/Odessy.github.io/assets/137520021/06cb6ea7-c490-4056-8d8d-e1abcb3ec8b9)
 <div align="center">
 Hey there! I'm a passionate game developer and artist with a love for creating games. I specialize in **C#, Unity** and **2D and pixel art**. Let's work together and create fun games.
-</div>div>
+</div>
 
 ## Current Work
 
