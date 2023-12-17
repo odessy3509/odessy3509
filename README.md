@@ -2,10 +2,16 @@
 
 <h4 align="center">Hey there! I'm a passionate game developer and artist with a love for creating games. I specialize in **C#, Unity** and **2D and pixel art**. Let's work together and create fun games.
 
-**Currently working on:**                                <div align="right">
-- Small games                                             <br/> <!-- Add a line break to move the stats down -->
-- Game jams                                                 <img src="https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical" />
-- In a small but growing indie studio                       </div>
+ <div style="float: left; width: 50%;">
+  **Currently working on:**
+  - Small games
+  - Game jams
+  - In a small but growing indie studio
+</div>
+
+<div style="float: right; width: 50%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical" />
+</div>
 
 
  
