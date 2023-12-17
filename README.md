@@ -1,5 +1,5 @@
-![image](file:///C:/Users/odess/Downloads/Random/Banner1.png)
-<h1 align="center">Odessy</h1>
+<h1 align="cent![Banner1](https://github.com/odessy3509/Odessy.github.io/assets/137520021/3982432c-03d3-443e-a757-59210e79e61a)
+er">Odessy</h1>
 <h3 align="center">Digital Craftsman (game dev and artist)</h3>
 
 
