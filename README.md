@@ -19,7 +19,7 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
 
 
 
-### Contact Me ### Join the Studio's Server ### Check out the Games
+### Contact Me  Join the Studio's Server  Check out the Games
 
 <div align="center">
 
