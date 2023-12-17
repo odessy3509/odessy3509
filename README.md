@@ -16,10 +16,10 @@ Hey there! 👋 I'm [Your Name], a passionate [Your Occupation/Interest] based i
 
 Feel free to reach out! 😊
 
-- 📧 Email: [your@email.com](mailto:your@email.com)
-- 🎮 Steam: [YourSteamUsername](https://steamcommunity.com/id/YourSteamUsername/)
-- 🎨 itch.io: [YourItchioUsername](https://itch.io/profile/YourItchioUsername)
-- 💬 Discord: YourDiscordUsername#1234
+- 📧 Email: [your@email.com](mailto:odessy3509@email.com)
+- 🎮 Steam: [YourSteamUsername]((https://steamcommunity.com/profiles/76561199342078579/))
+- 🎨 itch.io: [YourItchioUsername]((https://odessy.itch.io/))
+- 💬 Discord: odessy3509
 
 ## Informational Widgets
 
