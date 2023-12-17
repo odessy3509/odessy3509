@@ -2,7 +2,6 @@
 
 <h4 align="center">Hey there! I'm a passionate game developer and artist with a love for creating games. I specialize in **C#, Unity** and **2D and pixel art**. Let's work together and create fun games.
 
-
 <table>
   <tr>
     <td>
@@ -23,15 +22,7 @@
   </tr>
 </table>
 
-
-
- 
- 
-
-
-
-
-
+&nbsp; <!-- Small space -->
 
 <div align="center">
   <a href="mailto:odessy3509@gmail.com">
@@ -46,7 +37,12 @@
 </div>
 
 ## My Work
-![GIF 1](https://i.gyazo.com/421be63b9f0484e2b3e091f1a305066f.gif) ![GIF 2](https://i.gyazo.com/87f5f89b6c8015dc8fb44e504d0a234e.gif) ![GIF 3](https://i.gyazo.com/9406abee664760b76d9ac888a309dcb6.gif) ![GIF 4](https://i.gyazo.com/97ac69f8357fd372face675541328229.gif)
+<div align="center">
+  <img src="https://i.gyazo.com/421be63b9f0484e2b3e091f1a305066f.gif" width="200" /> 
+  <img src="https://i.gyazo.com/87f5f89b6c8015dc8fb44e504d0a234e.gif" width="200" /> 
+  <img src="https://i.gyazo.com/9406abee664760b76d9ac888a309dcb6.gif" width="200" /> 
+  <img src="https://i.gyazo.com/97ac69f8357fd372face675541328229.gif" width="200" />
+</div>
 
 <div align="center">
   <img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/ac0ee750-45c5-4042-9713-c11c097339be" alt="Menu" />
