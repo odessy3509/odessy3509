@@ -1,51 +1,54 @@
-<div align="center">
-  <img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/3982432c-03d3-443e-a757-59210e79e61a" alt="Banner" />
-  <h3>Aspiring game developer and artist creating digital content for the world. Building a platform to create and share with others.</h3>
-</div>
+# Project Name
 
----
+![Banner Image](url/to/your/banner/image.png)
 
-<div align="left">
-  🗂️ **Currently working on:** Small games, game jams, and in a small but growing game studio
+## Bio
 
-  📖 **Currently learning:** C# and 2D animation
+Hey there! 👋 I'm [Your Name], a passionate [Your Occupation/Interest] based in [Your Location]. I love [something interesting about you] and enjoy bringing ideas to life through code and art.
 
-  👯 **Looking to collaborate on:** Game jams and other games
+## Skills
 
- 
-</div>
+- 💻 Programming Languages: [List your skills]
+- 🎨 Design & Art: [List your skills]
+- 🚀 Other Skills: [List any other relevant skills]
 
-<div align="center">
-  <img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/a3a7838b-02e1-4e33-b673-1070ad732e34" alt="GIF" width="300" height="300" />
-</div>
+![GIF](url/to/your/awesome/gif.gif)
 
----
+## Contact
 
-<div align="center">
-  <h3>Connect with me:</h3>
-  📧 **How to reach me:** [odessy3509@gmail.com](mailto:odessy3509@gmail.com)
-  
-  💬 **Discord:** YourDiscordUsername#1234
-</div>
+Feel free to reach out! 😊
 
----
+- 📧 Email: [your@email.com](mailto:your@email.com)
+- 🎮 Steam: [YourSteamUsername](https://steamcommunity.com/id/YourSteamUsername/)
+- 🎨 itch.io: [YourItchioUsername](https://itch.io/profile/YourItchioUsername)
+- 💬 Discord: YourDiscordUsername#1234
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
-  </a>
-</p>
+## Informational Widgets
 
----
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo.svg?style=social)](https://github.com/yourusername/yourrepo/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepo.svg?style=social)](https://github.com/yourusername/yourrepo/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/yourrepo.svg)](https://github.com/yourusername/yourrepo/issues)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&locale=en" alt="GitHub Stats" />
-</div>
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Build Status](https://travis-ci.org/yourusername/yourrepo.svg?branch=master)](https://travis-ci.org/yourusername/yourrepo)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=odessy3509" alt="GitHub Streak" />
-</div>
+## Artwork Showcase
+
+### Project Screenshots
+
+![Screenshot 1](url/to/screenshot1.png)
+![Screenshot 2](url/to/screenshot2.png)
+![Screenshot 3](url/to/screenshot3.png)
+
+### Artwork and Designs
+
+![Artwork 1](url/to/artwork1.png)
+![Artwork 2](url/to/artwork2.png)
+![Artwork 3](url/to/artwork3.png)
+
+### GIFs
+
+![GIF 1](url/to/gif1.gif)
+![GIF 2](url/to/gif2.gif)
+![GIF 3](url/to/gif3.gif)
+
