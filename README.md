@@ -1,7 +1,9 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 ![image](file:///C:/Users/odess/Downloads/Random/Banner1.png)
 <h1 align="center">Odessy</h1>
-<h3 align="center">Digital Craftsman (game dev|artist)</h3>
+<h3 align="center">Digital Craftsman (game dev and artist)</h3>
+
+
 <h3 align="center">I'm an aspiring game dev and artist creating digital content for the world. I hope to build a platform to create and share with others.</h3>
 <img align="right" alt="Coding" width="400" src="img align="right" alt=["Coding" width="400" src="https://cdn.dribbble.com/users/116207...""](https://tenor.com/view/drawing-sketch-writing-happy-shrimp-gif-14001206)>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odessy3509&label=Profile%20views&color=0e75b6&style=flat" alt="odessy3509" /> </p>
