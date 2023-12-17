@@ -19,12 +19,11 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
 
 ## My Artwork
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-  <img src="https://i.gyazo.com/421be63b9f0484e2b3e091f1a305066f.gif" alt="Artwork1" style="width: 100%;">
-  <img src="https://i.gyazo.com/87f5f89b6c8015dc8fb44e504d0a234e.gif" alt="Artwork2" style="width: 100%;">
-  <img src="https://i.gyazo.com/9406abee664760b76d9ac888a309dcb6.gif" alt="Artwork3" style="width: 100%;">
-  <img src="https://i.gyazo.com/97ac69f8357fd372face675541328229.gif" alt="Artwork4" style="width: 100%;">
-</div>
+<img src="https://i.gyazo.com/421be63b9f0484e2b3e091f1a305066f.gif" width="50">
+<img src="https://i.gyazo.com/87f5f89b6c8015dc8fb44e504d0a234e.gif" width="50">
+<img src="https://i.gyazo.com/9406abee664760b76d9ac888a309dcb6.gif" width="50">
+<img src="https://i.gyazo.com/97ac69f8357fd372face675541328229.gif" width="50">
+
 
 
 ![Game Menu](https://github.com/odessy3509/Odessy.github.io/assets/137520021/ac0ee750-45c5-4042-9713-c11c097339be)
