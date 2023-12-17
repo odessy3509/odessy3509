@@ -12,13 +12,21 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
 - I'm learning C# and 2D art and animation.
 
 ## Contact Me
-Feel free to reach out to me through the following channels:
+<div align="center">
+  <a href="mailto:odessy3509@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://discord.com/users/odessy3509" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://odessy.itch.io/" target="_blank">
+     <img src="https://img.shields.io/badge/itch.io-FF5722?style=for-the-badge&logo=itch-dot-io&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-- **Discord DM:** [YourDiscordUsername#0000]
-- **Email:** [YourEmail@example.com]
-- **itch.io:** [YourItchioProfile]
 
-## My Work (Grid Layout)
+
+## My Work 
 ![GIF 1](https://i.gyazo.com/421be63b9f0484e2b3e091f1a305066f.gif)
 ![GIF 2](https://i.gyazo.com/87f5f89b6c8015dc8fb44e504d0a234e.gif)
 ![GIF 3](https://i.gyazo.com/9406abee664760b76d9ac888a309dcb6.gif)
