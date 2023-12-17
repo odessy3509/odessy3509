@@ -19,10 +19,10 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
 
 
 
-### Contact Me  Join the Studio's Server  Check out the Games
+
 
 <div align="center">
-
+  # Contact Me
   <a href="mailto:odessy3509@gmail.com">
     <img src="https://img.shields.io/badge/Email-%40odessy3509@gmail.com-yellow?style=for-the-badge&logo=gmail&logoColor=red&color=yellow" alt="Email">
   </a>
