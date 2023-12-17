@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Odessy</h1>
 <h3 align="center">A passionate game dev and artist</h3>
-<img align="right" alt="Coding" width="400" src="img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."">
+<img align="right" alt="Coding" width="400" src="img align="right" alt=["Coding" width="400" src="https://cdn.dribbble.com/users/116207...""](https://tenor.com/view/drawing-sketch-writing-happy-shrimp-gif-14001206)>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odessy3509&label=Profile%20views&color=0e75b6&style=flat" alt="odessy3509" /> </p>
 
 - 🗂️ I’m currently working on **small games, game jams and in a small but growing game studio**
