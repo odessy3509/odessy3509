@@ -71,9 +71,12 @@ Looking forward to connecting with fellow game developers and enthusiasts! Let's
 If you enjoy my work and would like to support me, consider buying me a coffee!
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://ko-fi.com/odessy alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <a href='https://ko-fi.com/odessy' target='_blank'>
+    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
 </div>
 
 <br/>
+
 
 
