@@ -2,7 +2,14 @@
 
 Hey there! I'm a passionate game developer and artist with a love for creating games. I specialize in C# in Unity and 2D and pixel art. Let's work together and create fun games.
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical)
+
+- Currently working on:
+  - Small games
+  - Game jams
+  - In a small but growing indie studio
+
+    <div align="center">
   <a href="mailto:odessy3509@gmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -14,12 +21,6 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
   </a>
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical)
-
-- Currently working on:
-  - Small games
-  - Game jams
-  - In a small but growing indie studio
 
 ![GIF 1](https://i.gyazo.com/421be63b9f0484e2b3e091f1a305066f.gif)
 ![GIF 2](https://i.gyazo.com/87f5f89b6c8015dc8fb44e504d0a234e.gif)
