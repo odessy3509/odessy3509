@@ -6,11 +6,11 @@ Hello! It's fantastic to connect with a passionate creator like you! And share y
 
 ## Current Work
 
-- **Small Games:** Currently working on developing a variety of small, entertaining games.
+**Small Games:** Currently working on developing a variety of small, entertaining games.
   
-- **Game Jams:** Actively participating in game jams to explore creativity and accelerate game development skills.
+ **Game Jams:** Actively participating in game jams to explore creativity and accelerate game development skills.
 
-- **Indie Studio:** Engaged with a small, but rapidly growing indie studio, contributing to exciting projects.
+**Indie Studio:** Engaged with a small, but rapidly growing indie studio, contributing to exciting projects.
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical" alt="GitHub Stats">
