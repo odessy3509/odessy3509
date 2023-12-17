@@ -13,7 +13,7 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical)
 
 
-<div align="center"> 
+
 <div align="center"> 
 
   <a href="mailto:odessy3509@gmail.com">
