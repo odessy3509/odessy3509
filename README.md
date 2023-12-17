@@ -4,8 +4,7 @@ er">Odessy</h1>
 
 
 <h3 align="center">I'm an aspiring game dev and artist creating digital content for the world. I hope to build a platform to create and share with others.</h3>
-![giphy](https://github.com/odessy3509/Odessy.github.io/assets/137520021/ad312cf2-bd5d-4aaa-b1de-ef79b78c71f7)
-
+![giphy](https://github.com/odessy3509/Odessy.github.io/assets/137520021/a3a7838b-02e1-4e33-b673-1070ad732e34)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odessy3509&label=Profile%20views&color=0e75b6&style=flat" alt="odessy3509" /> </p>
 
 - 🗂️ I’m currently working on **small games, game jams and in a small but growing game studio**
