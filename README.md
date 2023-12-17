@@ -10,7 +10,7 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
 
 - **Indie Studio:** Engaged with a small, but rapidly growing indie studio, contributing to exciting projects.
 
- <div align="center" style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;">
 
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical" alt="GitHub Stats">
