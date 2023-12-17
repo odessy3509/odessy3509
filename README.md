@@ -1,12 +1,9 @@
 ![Banner](https://github.com/odessy3509/Odessy.github.io/assets/137520021/b9031079-f295-4e75-81ce-ceedeb38d93e)
 
 ## Bio
-Hey there! I'm a passionate game developer with a love for creating immersive and exciting gaming experiences.
+Hey there! I'm a passionate game developer and artist with a love for creating games. i specialize in C# In Unity and 2D and pixel art lets work together and create fun games.     ### GitHub Stats ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical)
 
-### About Me
-- **Name:** [Your Name]
-- **Role:** Game Developer                ### GitHub Stats ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical)
-
+           
 
 Here are some of the projects I'm currently working on or have completed:
 
