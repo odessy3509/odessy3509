@@ -12,9 +12,10 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical" alt="GitHub Stats">
-  <!-- Add another widget here -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odessy3509&layout=compact&theme=radical" alt="Top Languages">
+  <!-- Use the Contributions widget -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=odessy3509&theme=radical" alt="GitHub Streak">
 </div>
+
 
 
 
