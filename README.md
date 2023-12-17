@@ -4,8 +4,7 @@
 
 <div align="left">
 
-## **Currently working on:**
-
+**Currently working on:**
 - Small games
 - Game jams
 - In a small but growing indie studio
