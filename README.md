@@ -4,11 +4,11 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
 
 ## Current Work
 
-- Small games
+- Small games                                            ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical)
 - Game jams
 - In a small but growing indie studio
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical)
+
 
 
 
