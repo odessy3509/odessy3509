@@ -10,13 +10,11 @@ Hey there! I'm a passionate game developer with a love for creating immersive an
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical)
 
-### Projects
+
 Here are some of the projects I'm currently working on or have completed:
 
 - [Project 1](#) - Brief description.
 - [Project 2](#) - Brief description.
-
-### Seeking Help
 I'm currently working on [specific challenges or areas]. If you have expertise in these areas, your help would be greatly appreciated!
 
 ## Contact Me
