@@ -13,9 +13,14 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical)
 
 
-- 📧 Email: [odessy3509@gmail.com](mailto:odessy3509@gmail.com)
-- 💬 Discord: [odessy3509](https://discord.com/users/odessy3509)
-- 🕹️ itch.io: [odessy.itch.io](https://odessy.itch.io/)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-%40Dessy-blue)](mailto:odessy3509@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-odessy3509-blue)](https://discord.com/users/odessy3509)
+[![itch.io](https://img.shields.io/badge/itch.io-odessy-blue)](https://odessy.itch.io/)
+
+</div>
+
 
 ## My Artwork
 
