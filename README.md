@@ -5,15 +5,14 @@
 <div align="left">
 
 
-
 **Currently working on:**
 - Small games
 - Game jams
 - In a small but growing indie studio
 
-</div>
+<br/> <!-- Add a line break -->
 
-<div align="right">
+<div align="right" style="margin-top: -20px"> <!-- Adjust the margin-top value to move the stats up or down -->
   <img src="https://github-readme-stats.vercel.app/api?username=odessy3509&show_icons=true&theme=radical" />
 </div>
 
