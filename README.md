@@ -20,15 +20,10 @@ Hey there! I'm a passionate game developer and artist with a love for creating g
 
 
 
-
-# Contact Me
-
 <div align="center">
   <a href="mailto:odessy3509@gmail.com">
     <img src="https://img.shields.io/badge/Email-%40odessy3509@gmail.com-yellow?style=for-the-badge&logo=gmail&logoColor=red&color=yellow" alt="Email">
   </a>
-</div>
-
 
   <a href="https://discord.com/users/odessy3509">
     <img src="https://img.shields.io/badge/Discord-odessy3509-blue?style=for-the-badge&logo=discord&logoColor=white&color=7289da" alt="Discord">
