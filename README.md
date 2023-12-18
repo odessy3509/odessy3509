@@ -25,20 +25,20 @@ Hello! It's fantastic to connect with a passionate creator like you! And share y
 
 <div align="center">
   <!-- Contact me -->
+  <span style="font-size: larger"># Contact me</span>
   <a href="mailto:odessy3509@gmail.com">
-    <span style="font-size: larger"># Contact me</span>
     <img src="https://img.shields.io/badge/Gmail-%40odessy3509@gmail.com-yellow?style=for-the-badge&logo=gmail&logoColor=red&color=yellow" alt="Email">
   </a>
 
   <!-- Join the Studio Server -->
+  <span style="font-size: larger">#Join the Studio Server</span>
   <a href="https://discord.gg/rgxjqPpJ">
-    <span style="font-size: larger">#Join the Studio Server</span>
     <img src="https://img.shields.io/badge/Discord-odessy3509-blue?style=for-the-badge&logo=discord&logoColor=white&color=7289da" alt="Discord">
   </a>
 
   <!-- Check out the Games -->
+  <span style="font-size: larger">#Check out the Games</span>
   <a href="https://odessy.itch.io/">
-    <span style="font-size: larger">#Check out the Games</span>
     <img src="https://img.shields.io/badge/itch.io-odessy-red?style=for-the-badge&logo=itch.io&logoColor=white&color=ff0000" alt="itch.io">
   </a>
 </div>
