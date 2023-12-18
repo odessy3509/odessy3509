@@ -8,7 +8,7 @@ Hello! It's fantastic to connect with a passionate creator like you! And share y
 
 **Small Games:** Currently working on developing a variety of small, entertaining games.
   
- **Game Jams:** Actively participating in game jams to explore creativity and accelerate game development skills.
+ **Christmas Jam:** Actively participating in Jame Gam Christmas Edition to explore creativity and accelerate game development skills.
 
 **Indie Studio:** Engaged with a small, but rapidly growing indie studio, contributing to exciting projects.
 
