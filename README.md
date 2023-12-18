@@ -74,7 +74,7 @@ Hello! It's fantastic to connect with a passionate creator like you! And share y
 
 
 
-Looking forward to connecting with fellow game developers and enthusiasts! Let's create some amazing games together! 🚀
+Looking forward to connecting with fellow game developers and enthusiasts! Let's create some amazing work together! 🚀
 
 ## Support
 
