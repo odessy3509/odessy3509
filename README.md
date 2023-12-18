@@ -59,6 +59,7 @@ Hello! It's fantastic to connect with a passionate creator like you! And share y
 
 <img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/f105a05b-aaf0-4c8a-be51-12f712041375.png" alt="Fwog" width="200">
 <img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/ac0ee750-45c5-4042-9713-c11c097339be.png" alt="Game Menu" width="300">
+<img src="https://gyazo.com/e7cdc206cfbd502902ac33870c7bb1a2.png" alt="Game Menu" width="300">
 
 
 
