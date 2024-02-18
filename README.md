@@ -63,15 +63,15 @@ Hello! It's fantastic to connect with a passionate creator like you! And share y
 
 
 <div align="center">
-  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/7b213e12-b867-4e85-be13-f260e84262f7.gif" width="200" alt="Image 1">
-  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/032e91c3-8eda-4b23-9d6e-2834e6a0239c" width="200" alt="Image 2">
-  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/07c259e1-7919-4790-a43f-073d372e6f69" width="200" alt="Image 3">
-  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/6883d2d7-7bdf-4f07-90ec-b2dc5f7915dd" width="200" alt="Image 4">
+ <img src="https://github.com/odessy3509/odessy3509/blob/main/assets/137520021/7b213e12-b867-4e85-be13-f260e84262f7.gif?raw=true" width="300" alt="Image 1">
+  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/032e91c3-8eda-4b23-9d6e-2834e6a0239c" width="300" alt="Image 2">
+  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/07c259e1-7919-4790-a43f-073d372e6f69" width="300" alt="Image 3">
+  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/6883d2d7-7bdf-4f07-90ec-b2dc5f7915dd" width="300" alt="Image 4">
 </div>
 
 <div align="center">
-  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/259d3031-bd33-47c2-92ad-b3397c347945" width="200" alt="Image 5">
-  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/2906003f-cdfd-4d80-982f-5871e9f6f890" width="200" alt="Image 6">
+  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/259d3031-bd33-47c2-92ad-b3397c347945" width="300" alt="Image 5">
+  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/2906003f-cdfd-4d80-982f-5871e9f6f890" width="300" alt="Image 6">
   <img src="https://github.com/odessy3509/odessy3509/assets/137520021/f7385e67-3fdc-4281-8cc5-b795ca40055e.gif" width="200" alt="Image 7">
 </div>
 
