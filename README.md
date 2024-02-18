@@ -61,21 +61,26 @@ Hello! It's fantastic to connect with a passionate creator like you! And share y
 ## My Artwork
 
 
-## My Artwork
 
 <div align="center">
-  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/7b213e12-b867-4e85-be13-f260e84262f7.gif" width="150" alt="Image 1">
-  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/032e91c3-8eda-4b23-9d6e-2834e6a0239c" width="150" alt="Image 2">
-  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/07c259e1-7919-4790-a43f-073d372e6f69" width="150" alt="Image 3">
-  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/6883d2d7-7bdf-4f07-90ec-b2dc5f7915dd" width="150" alt="Image 4">
+  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/7b213e12-b867-4e85-be13-f260e84262f7.gif" width="200" alt="Image 1">
+  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/032e91c3-8eda-4b23-9d6e-2834e6a0239c" width="200" alt="Image 2">
+  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/07c259e1-7919-4790-a43f-073d372e6f69" width="200" alt="Image 3">
+  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/6883d2d7-7bdf-4f07-90ec-b2dc5f7915dd" width="200" alt="Image 4">
 </div>
 
 <div align="center">
-  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/259d3031-bd33-47c2-92ad-b3397c347945" width="150" alt="Image 5">
-  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/2906003f-cdfd-4d80-982f-5871e9f6f890" width="150" alt="Image 6">
-  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/f7385e67-3fdc-4281-8cc5-b795ca40055e.gif" width="150" alt="Image 7">
-  <img src="https://i.gyazo.com/421be63b9f0484e2b3e091f1a305066f.gif" width="150" alt="Image 8">
+  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/259d3031-bd33-47c2-92ad-b3397c347945" width="200" alt="Image 5">
+  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/2906003f-cdfd-4d80-982f-5871e9f6f890" width="200" alt="Image 6">
+  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/f7385e67-3fdc-4281-8cc5-b795ca40055e.gif" width="200" alt="Image 7">
 </div>
+
+<div align="center">
+  <img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/f105a05b-aaf0-4c8a-be51-12f712041375.png" alt="Fwog" width="200">
+  <img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/ac0ee750-45c5-4042-9713-c11c097339be.png" alt="Game Menu" width="300">
+  <img src="https://gyazo.com/e7cdc206cfbd502902ac33870c7bb1a2.png" alt="Game Menu" width="300">
+</div>
+
 
 
 
