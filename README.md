@@ -62,9 +62,10 @@ Hello! It's fantastic to connect with a passionate creator like you! And share y
 ## My Artwork
 
 
-<div align="center">
 
 
+
+<img src="(https://github.com/user-attachments/assets/9b165999-c79b-4eb5-b5cc-f0b4cd5b6b8a" width="500" alt="Image 9">
   
 <img src="https://github.com/odessy3509/odessy3509/assets/137520021/032e91c3-8eda-4b23-9d6e-2834e6a0239c.png" width="500" alt="Image 6">
 <img src="https://github.com/odessy3509/odessy3509/assets/137520021/07c259e1-7919-4790-a43f-073d372e6f69.png" width="500" alt="Image 7">
