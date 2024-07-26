@@ -64,28 +64,26 @@ Hello! It's fantastic to connect with a passionate creator like you! And share y
 
 
 
-
 <img src="https://github.com/odessy3509/odessy3509/assets/9b165999-c79b-4eb5-b5cc-f0b4cd5b6b8a.png" width="500" alt="Image 9">
   
 <img src="https://github.com/odessy3509/odessy3509/assets/137520021/032e91c3-8eda-4b23-9d6e-2834e6a0239c.png" width="500" alt="Image 6">
 <img src="https://github.com/odessy3509/odessy3509/assets/137520021/07c259e1-7919-4790-a43f-073d372e6f69.png" width="500" alt="Image 7">
 <img src="https://github.com/odessy3509/odessy3509/assets/137520021/6883d2d7-7bdf-4f07-90ec-b2dc5f7915dd.png" width="500" alt="Image 8">
 
-  
-  ![PlayerIdle](https://github.com/odessy3509/odessy3509/assets/137520021/259d3031-bd33-47c2-92ad-b3397c347945)
-![Wendigo](https://github.com/odessy3509/odessy3509/assets/137520021/2906003f-cdfd-4d80-982f-5871e9f6f890)
+<img src="https://github.com/odessy3509/odessy3509/assets/137520021/259d3031-bd33-47c2-92ad-b3397c347945" alt="PlayerIdle">
+<img src="https://github.com/odessy3509/odessy3509/assets/137520021/2906003f-cdfd-4d80-982f-5871e9f6f890" alt="Wendigo">
 
- <img src="https://github.com/odessy3509/odessy3509/assets/137520021/f7385e67-3fdc-4281-8cc5-b795ca40055e.gif" width="200" alt="Image 5">
+<img src="https://github.com/odessy3509/odessy3509/assets/137520021/f7385e67-3fdc-4281-8cc5-b795ca40055e.gif" width="200" alt="Image 5">
 
-  <img src="https://i.gyazo.com/421be63b9f0484e2b3e091f1a305066f.gif" width="150" alt="Image 1">
-  <img src="https://i.gyazo.com/87f5f89b6c8015dc8fb44e504d0a234e.gif" width="150" alt="Image 2">
-  <img src="https://i.gyazo.com/9406abee664760b76d9ac888a309dcb6.gif" width="150" alt="Image 3">
-  <img src="https://i.gyazo.com/97ac69f8357fd372face675541328229.gif" width="150" alt="Image 4">
-</div>
+<img src="https://i.gyazo.com/421be63b9f0484e2b3e091f1a305066f.gif" width="150" alt="Image 1">
+<img src="https://i.gyazo.com/87f5f89b6c8015dc8fb44e504d0a234e.gif" width="150" alt="Image 2">
+<img src="https://i.gyazo.com/9406abee664760b76d9ac888a309dcb6.gif" width="150" alt="Image 3">
+<img src="https://i.gyazo.com/97ac69f8357fd372face675541328229.gif" width="150" alt="Image 4">
 
 <img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/f105a05b-aaf0-4c8a-be51-12f712041375.png" alt="Fwog" width="200">
 <img src="https://github.com/odessy3509/Odessy.github.io/assets/137520021/ac0ee750-45c5-4042-9713-c11c097339be.png" alt="Game Menu" width="300">
 <img src="https://gyazo.com/e7cdc206cfbd502902ac33870c7bb1a2.png" alt="Game Menu" width="300">
+
 
 
 
