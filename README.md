@@ -61,6 +61,7 @@ Hello! It's fantastic to connect with a passionate creator like you! And share y
 
 ## My Artwork
 
+![miata](https://github.com/user-attachments/assets/9b0cc134-15ea-4c76-b2fb-bbacb1b79fde)
 
 ![miata](https://github.com/user-attachments/assets/d6423fcb-55d3-4018-a318-db9633cb1d1e)
 
