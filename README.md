@@ -63,8 +63,8 @@ Hello! It's fantastic to connect with a passionate creator like you! And share y
 ![miata]()
 
 
+![Image 9](https://github.com/your-username/your-repository/blob/main/path/to/miata.png)
 
-<img src="file:///C:/Users/odess/Downloads/Random/miata.png" width="500" alt="Image 9">
   
 <img src="https://github.com/odessy3509/odessy3509/assets/137520021/032e91c3-8eda-4b23-9d6e-2834e6a0239c.png" width="500" alt="Image 6">
 <img src="https://github.com/odessy3509/odessy3509/assets/137520021/07c259e1-7919-4790-a43f-073d372e6f69.png" width="500" alt="Image 7">
