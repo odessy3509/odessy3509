@@ -60,7 +60,9 @@ Hello! It's fantastic to connect with a passionate creator like you! And share y
 
 
 ## My Artwork
-![miata](https://github.com/user-attachments/assets/add5185c-494f-4b69-8292-afbb5c7060cb)
+
+
+![miata](https://github.com/user-attachments/assets/d6423fcb-55d3-4018-a318-db9633cb1d1e)
 
   
 <img src="https://github.com/odessy3509/odessy3509/assets/137520021/032e91c3-8eda-4b23-9d6e-2834e6a0239c.png" width="500" alt="Image 6">
