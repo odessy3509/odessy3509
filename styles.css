@@ -1,0 +1,153 @@
+/* Base Styling */
+body {
+  background-color: #121212; /* Dark background */
+  color: #e0e0e0; /* Light text */
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+/* Container for sections */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Header Styling */
+header {
+  background: #1f1f1f; /* Slightly darker background */
+  padding: 20px 0;
+  text-align: center;
+  border-bottom: 2px solid #4caf50;
+}
+
+header h1 {
+  font-size: 2.5em;
+  color: #4caf50; /* Accent color */
+}
+
+header p {
+  color: #bbb;
+}
+
+/* Navigation Bar */
+nav {
+  text-align: center;
+  padding: 10px;
+  background: #222;
+}
+
+nav a {
+  color: #e0e0e0;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #4caf50;
+  transition: color 0.3s ease;
+}
+
+/* Section Styling */
+section {
+  margin: 40px 0;
+  padding: 20px;
+  background: #1f1f1f;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+section h2 {
+  color: #4caf50;
+  font-size: 2em;
+  border-bottom: 2px solid #4caf50;
+  padding-bottom: 10px;
+}
+
+section p, section ul {
+  color: #d0d0d0;
+  margin: 10px 0;
+}
+
+section ul {
+  list-style: none;
+  padding: 0;
+}
+
+section ul li {
+  padding: 5px 0;
+}
+
+/* Buttons */
+button, a.button {
+  background: #4caf50;
+  color: #121212;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1em;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+button:hover, a.button:hover {
+  background: #43a047;
+  transition: background 0.3s ease;
+}
+
+/* Artworks Gallery */
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.gallery img {
+  width: 100%;
+  max-width: 300px;
+  border-radius: 8px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.gallery img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.4);
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #1f1f1f;
+  color: #777;
+  margin-top: 40px;
+}
+
+footer a {
+  color: #4caf50;
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  section h2 {
+    font-size: 1.8em;
+  }
+
+  .gallery img {
+    max-width: 100%;
+  }
+
+  nav a {
+    display: block;
+    margin: 10px 0;
+  }
+}
