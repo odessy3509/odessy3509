@@ -47,17 +47,21 @@
 ![Miata 1](https://github.com/user-attachments/assets/9b0cc134-15ea-4c76-b2fb-bbacb1b79fde)
 ![Miata 2](https://github.com/user-attachments/assets/d6423fcb-55d3-4018-a318-db9633cb1d1e)
 
-### Other Artworks
-<img src="https://github.com/odessy3509/odessy3509/assets/137520021/032e91c3-8eda-4b23-9d6e-2834e6a0239c.png" width="300" alt="Artwork 1">
-<img src="https://github.com/odessy3509/odessy3509/assets/137520021/07c259e1-7919-4790-a43f-073d372e6f69.png" width="300" alt="Artwork 2">
-<img src="https://github.com/odessy3509/odessy3509/assets/137520021/6883d2d7-7bdf-4f07-90ec-b2dc5f7915dd.png" width="300" alt="Artwork 3">
+
+
 
 ---
+
 
 ## ✨ Animations & Assets
 
 ![PlayerIdle](https://github.com/odessy3509/odessy3509/assets/137520021/259d3031-bd33-47c2-92ad-b3397c347945)
 ![Wendigo](https://github.com/odessy3509/odessy3509/assets/137520021/2906003f-cdfd-4d80-982f-5871e9f6f890)
+![NewSword](https://github.com/user-attachments/assets/d360df65-3a3a-4922-ac3b-3f096d33a4b9)
+![Character](https://github.com/user-attachments/assets/4d58841b-c486-4f00-aaae-f87a9e279e60)
+![FwogEmoji](https://github.com/user-attachments/assets/8522fe07-4312-437a-8c72-75226c8b12cd)
+
+
 
 ### GIF Previews
 <img src="https://i.gyazo.com/421be63b9f0484e2b3e091f1a305066f.gif" width="150" alt="GIF 1">
