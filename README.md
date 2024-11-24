@@ -1,7 +1,7 @@
 ![Banner](https://github.com/odessy3509/odessy3509/assets/137520021/eb6ccd55-9351-4e17-9c3a-ff6d69d6584c)
 
 <div align="center" style="background-color: black; color: white; padding: 20px;">
-  <h1>Hello!</h1>
+ 
   <p>
     It's fantastic to connect with a passionate creator like you! I share your enthusiasm for creating engaging games.  
     My expertise lies in **C#**, **Unity**, and **2D and pixel art**, making us a great team to bring exciting projects to life.  
