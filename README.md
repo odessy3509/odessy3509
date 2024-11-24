@@ -1,4 +1,4 @@
-![Banner]![Odessynametag](https://github.com/odessy3509/odessy3509/assets/137520021/eb6ccd55-9351-4e17-9c3a-ff6d69d6584c)
+[Odessynametag](https://github.com/odessy3509/odessy3509/assets/137520021/eb6ccd55-9351-4e17-9c3a-ff6d69d6584c)
 <div align="center" style="background-color: black; color: white; padding: 20px;">
 
 <div align="center">
