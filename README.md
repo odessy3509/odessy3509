@@ -25,6 +25,22 @@
 
 ---
 
+## 📞 Contact Me
+
+<div align="center">
+  <a href="mailto:odessy3509@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-odessy3509%40gmail.com-yellow?style=for-the-badge&logo=gmail&logoColor=red" alt="Email">
+  </a>
+  <a href="https://discord.gg/rgxjqPpJ">
+    <img src="https://img.shields.io/badge/Discord-odessy3509-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://odessy.itch.io/">
+    <img src="https://img.shields.io/badge/itch.io-odessy-red?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io">
+  </a>
+</div>
+
+---
+
 ## 🎨 My Artwork
 
 ### Featured Work
@@ -51,21 +67,7 @@
 
 ---
 
-## 📞 Contact Me
 
-<div align="center">
-  <a href="mailto:odessy3509@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-odessy3509%40gmail.com-yellow?style=for-the-badge&logo=gmail&logoColor=red" alt="Email">
-  </a>
-  <a href="https://discord.gg/rgxjqPpJ">
-    <img src="https://img.shields.io/badge/Discord-odessy3509-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://odessy.itch.io/">
-    <img src="https://img.shields.io/badge/itch.io-odessy-red?style=for-the-badge&logo=itch.io&logoColor=white" alt="itch.io">
-  </a>
-</div>
-
----
 
 ## ❤️ Support
 
