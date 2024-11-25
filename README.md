@@ -79,5 +79,4 @@ If you enjoy my work and would like to support me, consider buying me a coffee!
   </a>
 </div>
 
-</body>
-</html>
+
