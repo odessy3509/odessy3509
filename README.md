@@ -48,24 +48,6 @@ I aim to collaborate and create immersive gaming experiences. Together, let's bu
 
 ---
 
-## 🎨 My Artwork
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9b0cc134-15ea-4c76-b2fb-bbacb1b79fde" alt="Miata 1" width="45%">
-  <img src="https://github.com/user-attachments/assets/d6423fcb-55d3-4018-a318-db9633cb1d1e" alt="Miata 2" width="45%">
-</p>
-
----
-
-## ✨ Animations & Assets
-
-<p align="center">
-  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/259d3031-bd33-47c2-92ad-b3397c347945" alt="Player Idle" width="45%">
-  <img src="https://github.com/odessy3509/odessy3509/assets/137520021/2906003f-cdfd-4d80-982f-5871e9f6f890" alt="Wendigo" width="45%">
-</p>
-
----
-
 ## 🎥 GIF Previews
 
 <p align="center">
