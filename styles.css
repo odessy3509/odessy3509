@@ -1,155 +1,275 @@
-/* Base Styling */
+/* General Body Styling */
 body {
-  background-color: #121212; /* Dark background */
-  color: #e0e0e0; /* Light text */
-  font-family: 'Arial', sans-serif;
+  font-family: Arial, sans-serif;
   line-height: 1.6;
+  background-color: #0d1117; /* Dark background */
+  color: #c9d1d9; /* Light text */
   margin: 0;
-  padding: 0;
+  padding: 20px;
 }
 
-/* Container for sections */
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
+/* Main Container */
+.github-readme {
+  max-width: 900px;
+  margin: auto;
   padding: 20px;
+  background: #161b22; /* Slightly lighter dark background */
+  border: 1px solid #30363d; /* Subtle border */
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
 }
 
 /* Header Styling */
-header {
-  background: #1f1f1f; /* Slightly darker background */
-  padding: 20px 0;
-  text-align: center;
-  border-bottom: 2px solid #4caf50;
+h2 {
+  color: #ffffff; /* Bright blue for headings */
+  border-bottom: 2px solid #30363d;
+  padding-bottom: 5px;
+  text-align: left; /* Keep headers left-aligned */
 }
 
-header h1 {
-  font-size: 2.5em;
-  color: #4caf50; /* Accent color */
-}
 
-header p {
-  color: #bbb;
-}
-
-/* Navigation Bar */
-nav {
-  text-align: center;
-  padding: 10px;
-  background: #222;
-}
-
-nav a {
-  color: #e0e0e0;
-  text-decoration: none;
-  margin: 0 15px;
-  font-weight: bold;
-}
-
-nav a:hover {
-  color: #4caf50;
-  transition: color 0.3s ease;
-}
-
-/* Section Styling */
-section {
-  margin: 40px 0;
-  padding: 20px;
-  background: #1f1f1f;
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
-}
-
-section h2 {
-  color: #4caf50;
-  font-size: 2em;
-  border-bottom: 2px solid #4caf50;
-  padding-bottom: 10px;
-}
-
-section p, section ul {
-  color: #d0d0d0;
-  margin: 10px 0;
-}
-
-section ul {
-  list-style: none;
-  padding: 0;
-}
-
-section ul li {
-  padding: 5px 0;
-}
-
-/* Buttons */
-button, a.button {
-  background: #4caf50;
-  color: #121212;
-  padding: 10px 20px;
-  border: none;
+  /* Styles for the copy feedback */
+.copy-feedback {
+  position: fixed;
+  bottom: 50px;
+  left: 50%;
+  transform: translate(-50%, 30px); /* Center horizontally and add slight vertical offset */
+  background-color: #161b22; 
+  color: white;
+  padding: 10px 15px;
   border-radius: 5px;
-  font-size: 1em;
-  cursor: pointer;
+  font-size: 14px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+  opacity: 0;
+  transition: opacity 0.3s, transform 0.3s;
+  z-index: 1000;
+}
+
+.copy-feedback.visible {
+  opacity: 1;
+  transform: translate(-50%, 0); /* Center horizontally and remove vertical offset */
+}
+
+  
+
+/* Links */
+a {
+  color: #58a6ff;
   text-decoration: none;
 }
 
-button:hover, a.button:hover {
-  background: #43a047;
-  transition: background 0.3s ease;
-}
-
-/* Artworks Gallery */
-.gallery {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px;
-  justify-content: center;
-}
-
-.gallery img {
-  background: none; /* Ensure no background color is applied */
-  width: 100%;
-  max-width: 300px;
-  border-radius: 8px;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.gallery img:hover {
-  transform: scale(1.05);
-  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.4);
-}
-
-
-/* Footer */
-footer {
-  text-align: center;
-  padding: 20px;
-  background: #1f1f1f;
-  color: #777;
-  margin-top: 40px;
-}
-
-footer a {
-  color: #4caf50;
-  text-decoration: none;
-}
-
-footer a:hover {
+a:hover {
   text-decoration: underline;
 }
 
-/* Responsive Design */
-@media (max-width: 768px) {
-  section h2 {
-    font-size: 1.8em;
-  }
+/* Lists */
+ul {
+  padding-left: 20px;
+}
 
-  .gallery img {
+ul li {
+  margin-bottom: 10px;
+}
+
+/* Stats Container */
+.stats {
+  display: flex; /* Align images side by side */
+  gap: 15px; /* Space between the images */
+  justify-content: center; /* Center the entire stats section */
+  align-items: stretch; /* Make images align evenly in height */
+}
+
+/* Stat Images */
+.stats img {
+  width: auto; /* Maintain the image's natural width */
+  height: 180px; /* Set a fixed height */
+  border-radius: 6px; /* Add rounded corners */
+  border: 1px solid #30363d; /* Border styling */
+  background: #0d1117; /* Add a background color behind images */
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.6); /* Optional shadow */
+  object-fit: contain; /* Maintain aspect ratio inside the height limit */
+}
+
+/* Artwork Section */
+.artwork {
+  display: flex; /* Align the boxes horizontally */
+  gap: 20px; /* Space between the boxes */
+  justify-content: center; /* Center the boxes on the page */
+  flex-wrap: wrap; /* Allow wrapping to the next row if necessary */
+  margin: 20px 0;
+}
+
+/* Individual Boxes */
+.artwork .box {
+  width: 300px; /* Fixed width for consistency */
+  height: 300px; /* Fixed height for consistency */
+  background: #161b22; /* Box background color */
+  border-radius: 6px; /* Rounded corners */
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.6); /* Subtle shadow for depth */
+  border: 2px solid #30363d; /* Thicker border for uniform outline */
+  overflow: hidden; /* Prevent content overflow */
+  display: flex; /* Enable centering of content */
+  justify-content: center; /* Center image horizontally */
+  align-items: center; /* Center image vertically */
+  position: relative; /* For any future inner elements */
+}
+
+/* Artwork and Animations Container */
+.artwork,
+.animations {
+  display: flex;
+  flex-wrap: wrap; /* Allow items to wrap if there's not enough space */
+  gap: 10px; /* Adds spacing between boxes */
+  justify-content: center; /* Optional: center the boxes */
+}
+
+/* Images (Artwork & Animations) */
+.artwork img,
+.animations img {
+  width: auto; /* Maintain the natural width of the image */
+  height: 100%; /* Scale to fit the height of the box */
+  max-height: 250px; /* Set the maximum height */
+  margin: 10px;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+  border: 1px solid #30363d;
+  background: #161b22;
+  object-fit: contain; /* Ensures the image is contained within its box without distortion */
+}
+
+/* Add Outline on Hover */
+.artwork .box:hover {
+  border-color: #f1c40f; /* Change border color on hover */
+  transform: scale(1.05); /* Slightly enlarge the box on hover */
+  transition: transform 0.3s ease, border-color 0.3s ease;
+}
+
+
+
+
+/* Support Section */
+.support {
+  text-align: center;
+  margin-top: 20px;
+}
+/* Contact section container */
+.contact {
+  display: flex;
+  justify-content: center; /* Centers the items horizontally */
+  gap: 20px; /* Space between each item */
+}
+
+/* Contact button (link + text box) */
+.contact-button {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Centers the content inside the button */
+  padding: 10px 20px;
+  border-radius: 8px;
+  border: 2px solid #000000; /* Light grey border for the button */
+  text-decoration: none; /* Removes the underline from the link */
+  color: #fff; /*main text */
+  font-weight: bold;
+  transition: background 0.3s ease, transform 0.3s ease, border-color 0.3s ease;
+  gap: 10px; /* Space between link text and the text box */
+  position: relative;
+}
+
+.contact-text-box {
+  color: #ffffff !important; /* Change this to your desired text color */
+  background-color: #7289da; /* Example Discord-like background color */
+  padding: 10px 20px;
+  text-align: center;
+  border-radius: 5px;
+  cursor: pointer; /* Change the cursor to indicate it's clickable */
+  user-select: none; /* Prevent accidental text selection */
+}
+
+
+/* Remove underline when hovering over the link */
+.contact-button a {
+  text-decoration: none; /* Ensures no underline on hover */
+  color: inherit; /* Inherit the color from the parent (button) */
+}
+
+/* Button text */
+.contact-button-text {
+  z-index: 1;
+}
+
+/* Text box next to each button */
+.contact-text-box {
+  padding: 8px 12px;
+  border-radius: 4px;
+  background-color: #242424; /* Grey background */
+  color: #2c3e50; /* Darker grey text */
+  font-size: 14px;
+  position: relative;
+  z-index: 0;
+}
+
+/* Hover effect for the entire button */
+.contact-button:hover {
+  transform: scale(1.1); /* Slightly scale up on hover */
+  border-color: #2c3e50; /* Darker border on hover */
+}
+
+/* Specific button colors */
+.contact-button.email {
+  background: #ffc800; /* Yellow for email */
+}
+
+.contact-button.email:hover {
+  background: #c99e02; /* Darker yellow on hover */
+}
+
+.contact-button.discord {
+  background: #5226ff; /* Blue for discord */
+}
+
+.contact-button.discord:hover {
+  background: #411fcf; /* Darker blue on hover */
+}
+
+.contact-button.itchio {
+  background: #ff1f5a; /* Red for itch.io */
+}
+
+.contact-button.itchio:hover {
+  background: #bd113f; /* Darker red on hover */
+}
+
+
+.kofi-button {
+  display: inline-block;
+  transition: transform 0.3s ease; /* Smooth zoom effect */
+}
+
+.kofi-button:hover svg {
+  transform: scale(1.1); /* Slight zoom effect */
+  transition: transform 0.3s ease; /* Smooth scaling animation */
+}
+
+/* Banner Image */
+.banner-img {
+  width: 100%;
+  border-radius: 6px;
+  border: 1px solid #30363d;
+}
+
+/* Horizontal Line */
+hr {
+  border: 1px solid #30363d;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 600px) {
+  .stats img {
     max-width: 100%;
   }
 
-  nav a {
-    display: block;
-    margin: 10px 0;
+  .artwork img,
+  .animations img {
+    max-width: 100%;
   }
 }
