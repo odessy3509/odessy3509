@@ -60,6 +60,7 @@ Together, let's build something extraordinary! 🚀
 ## ❤️ Support
 
 <p align="center">
+  <p>
   If you enjoy my work i would HIGHLY apreciate it if you would like to support me, if so consider buying me a coffee!
   </p>
   <a href="https://ko-fi.com/odessy">
