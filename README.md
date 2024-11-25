@@ -48,15 +48,7 @@ I aim to collaborate and create immersive gaming experiences. Together, let's bu
 
 ---
 
-## 🎥 GIF Previews
 
-<p align="center">
-  <img src="https://i.gyazo.com/421be63b9f0484e2b3e091f1a305066f.gif" alt="GIF 1" width="30%">
-  <img src="https://i.gyazo.com/87f5f89b6c8015dc8fb44e504d0a234e.gif" alt="GIF 2" width="30%">
-  <img src="https://i.gyazo.com/9406abee664760b76d9ac888a309dcb6.gif" alt="GIF 3" width="30%">
-</p>
-
----
 
 ## ❤️ Support
 
