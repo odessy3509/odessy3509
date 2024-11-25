@@ -55,7 +55,7 @@
 
 ## ✨ Animations & Assets
 
-![PlayerIdle](https://github.com/odessy3509/odessy3509/assets/137520021/259d3031-bd33-47c2-92ad-b3397c347945)
+![PlayerIdle](https://github.com/odessy3509/odessy3509/assets/137520021/259d3031-bd33-47c2-92ad-b3397c347945.png)
 ![Wendigo](https://github.com/odessy3509/odessy3509/assets/137520021/2906003f-cdfd-4d80-982f-5871e9f6f890)
 ![NewSword](https://github.com/user-attachments/assets/d360df65-3a3a-4922-ac3b-3f096d33a4b9)
 ![Character](https://github.com/user-attachments/assets/4d58841b-c486-4f00-aaae-f87a9e279e60)
