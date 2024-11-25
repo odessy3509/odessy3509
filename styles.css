@@ -107,6 +107,7 @@ button:hover, a.button:hover {
 }
 
 .gallery img {
+  background: none; /* Ensure no background color is applied */
   width: 100%;
   max-width: 300px;
   border-radius: 8px;
@@ -117,6 +118,7 @@ button:hover, a.button:hover {
   transform: scale(1.05);
   box-shadow: 0 6px 10px rgba(0, 0, 0, 0.4);
 }
+
 
 /* Footer */
 footer {
