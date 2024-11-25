@@ -1,11 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
  
   <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
-</head>
+
  
 ![Banner](https://github.com/odessy3509/odessy3509/assets/137520021/eb6ccd55-9351-4e17-9c3a-ff6d69d6584c)
 
