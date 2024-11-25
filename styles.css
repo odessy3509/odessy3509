@@ -101,8 +101,8 @@ ul li {
 
 /* Individual Boxes */
 .artwork .box {
-  width: 300px; /* Fixed width for consistency */
-  height: 300px; /* Fixed height for consistency */
+  width: 400px; /* Fixed width for consistency */
+  height: 400px; /* Fixed height for consistency */
   background: #161b22; /* Box background color */
   border-radius: 6px; /* Rounded corners */
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.6); /* Subtle shadow for depth */
@@ -128,7 +128,7 @@ ul li {
 .animations img {
   width: auto; /* Maintain the natural width of the image */
   height: 100%; /* Scale to fit the height of the box */
-  max-height: 300px; /* Set the maximum height */
+  max-height: 250px; /* Set the maximum height */
   margin: 10px;
   border-radius: 6px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
