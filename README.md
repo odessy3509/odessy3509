@@ -60,6 +60,7 @@ Together, let's build something extraordinary! 🚀
 ## ❤️ Support
 
 <p align="center">
+  If you enjoy my work i would HIGHLY apreciate it if you would like to support me, if so consider buying me a coffee!
   <a href="https://ko-fi.com/odessy">
     <img src="https://img.shields.io/badge/Support%20Me%20on%20Ko--Fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Support Me on Ko-Fi">
   </a>
