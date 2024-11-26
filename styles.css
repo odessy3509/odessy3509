@@ -1,3 +1,4 @@
+
 /* General Body Styling */
 body {
     font-family: Arial, sans-serif;
@@ -6,6 +7,11 @@ body {
     color: #c9d1d9; /* Light text */
     margin: 0;
     padding: 20px;
+    overflow-y: scroll;
+}
+
+body::-webkit-scrollbar {
+    display: none; /* For WebKit browsers */
 }
 
 /* Center everything except the headers */
@@ -67,6 +73,20 @@ h2 {
         opacity: 1;
         transform: translate(-50%, 0); /* Center horizontally and remove vertical offset */
     }
+
+.styled-link {
+    color: #00aaff; /* Light blue color */
+    text-decoration: none; /* No underline by default */
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.styled-link:hover {
+    color: #0077cc; /* Slightly darker blue on hover */
+    text-decoration: none; /* Ensures no underline on hover */
+}
+
+
 
 /* Links */
 a {
