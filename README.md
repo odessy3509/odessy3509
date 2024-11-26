@@ -55,9 +55,9 @@
 
 
 ## ❤️ Support
-<div align="center">
+
 If you enjoy my work, I would **HIGHLY appreciate it** if you would consider supporting me. If so, please consider buying me a coffee!  
-</div>
+
 <div align="center">
   <a href="https://ko-fi.com/odessy">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support Me on Ko-Fi">
