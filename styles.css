@@ -11,7 +11,7 @@ body {
 }
 
 body::-webkit-scrollbar {
-    display: none; /* For WebKit browsers */
+    display: none !important; /* For WebKit browsers */
 }
 
 /* Center everything except the headers */
@@ -76,14 +76,14 @@ h2 {
 
 .styled-link {
     color: #00aaff; /* Light blue color */
-    text-decoration: none; /* No underline by default */
+    text-decoration: none !important; /* No underline by default */
     font-weight: bold;
     transition: color 0.3s ease;
 }
 
 .styled-link:hover {
     color: #0077cc; /* Slightly darker blue on hover */
-    text-decoration: none; /* Ensures no underline on hover */
+    text-decoration: none !important; /* Ensures no underline on hover */
 }
 
 
