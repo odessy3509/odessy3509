@@ -74,7 +74,7 @@ h2 {
 /* Add Outline on Hover */
 .artwork .box:hover {
   border-color: #f1c40f; /* Change border color on hover */
-  transform: scale(2.05); /* Slightly enlarge the box on hover */
+  transform: scale(1.05); /* Slightly enlarge the box on hover */
 }
 
 
