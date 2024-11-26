@@ -10,13 +10,10 @@
 
 <p align="center">
 👋 **Welcome!**  
-I'm thrilled to connect with passionate creators who love crafting engaging games.  
-With expertise in:  
-- **C#**
-- **Unity**
-- **2D & Pixel Art**  
-I aim to collaborate and create immersive gaming experiences.  
-Together, let's build something extraordinary! 🚀
+ It's fantastic to connect with a passionate creator like you! I share your enthusiasm for creating engaging games.
+ My expertise lies in *C#*, *Unity*, *3D Assets* and *2D and pixel art*, making us a great team to bring exciting projects to life.
+ I'm eager to collaborate and combine our skills to craft immersive and enjoyable gaming experiences.
+ Let's embark on this creative journey together and build some extraordinary games! 🚀
 </p>
 
 ---
