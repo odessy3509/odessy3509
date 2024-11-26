@@ -74,8 +74,9 @@ h2 {
 /* Add Outline on Hover */
 .artwork .box:hover {
   border-color: #f1c40f; /* Change border color on hover */
-  transform: scale(1.05); /* Slightly enlarge the box on hover */
+  transform: scale(2.05); /* Slightly enlarge the box on hover */
 }
+
 
 /* Links */
 a {
@@ -97,12 +98,38 @@ ul li {
   margin-bottom: 10px;
 }
 
+.gif-container {
+    display: flex;
+    justify-content: center; /* Horizontally center */
+    align-items: center; /* Vertically center */
+}
+
+.kofi-button {
+    transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+.kofi-button:hover {
+    background-color: rgba(0, 0, 0, 0.5); /* Darkens the button */
+}
+
+
 /* Support Section */
 .support {
   display: flex;
   justify-content: center; /* Center the support button */
   align-items: center;
   margin-top: 20px; /* Added top margin for spacing */
+  color: #FFFFFF;
+}
+
+.kofi-button {
+  display: inline-block;
+  transition: transform 0.3s ease; /* Smooth zoom effect */
+}
+
+.kofi-button:hover svg {
+  transform: scale(1.1); /* Slight zoom effect */
+  transition: transform 0.3s ease; /* Smooth scaling animation */
 }
 
 /* Copy Feedback Styling */
