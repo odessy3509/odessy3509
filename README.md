@@ -11,7 +11,7 @@
 
 👋 **Welcome!**  
  It's fantastic to connect with a passionate creator like you! I share your enthusiasm for creating engaging games.
- My expertise lies in **C#**, *Unity*, *3D Assets* and *2D and Pixel Art*, making us a great team to bring exciting projects to life.
+ My expertise lies in **C#**, **Unity**, **3D Assets** and **2D and Pixel Art**, making us a great team to bring exciting projects to life.
  I'm eager to collaborate and combine our skills to craft immersive and enjoyable gaming experiences.
  Let's embark on this creative journey together and build some extraordinary games! 🚀
 
