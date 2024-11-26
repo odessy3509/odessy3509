@@ -9,12 +9,11 @@
 ## ✨ Introduction
 
 <p align="center">
-👋 Welcome!
-Hi there! It's awesome to connect with a fellow passionate creator like you. I specialize in C#, Unity, 3D Assets, and 2D/Pixel Art, and I share your enthusiasm for crafting engaging games.
-
-Together, we can combine our skills to create immersive and enjoyable gaming experiences. I’m excited to collaborate and bring exciting projects to life.
-
-Let’s embark on this creative journey and build extraordinary games! 🚀
+👋 **Welcome!**  
+ It's fantastic to connect with a passionate creator like you! I share your enthusiasm for creating engaging games.
+ My expertise lies in **C#**, *Unity*, *3D Assets* and *2D and Pixel Art*, making us a great team to bring exciting projects to life.
+ I'm eager to collaborate and combine our skills to craft immersive and enjoyable gaming experiences.
+ Let's embark on this creative journey together and build some extraordinary games! 🚀
 </p>
 
 ---
